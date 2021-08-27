@@ -2,6 +2,7 @@
   "name": "mavericks",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "devDependencies": {
     "jest": "^23.5.0"
